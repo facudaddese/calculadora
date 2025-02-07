@@ -1,5 +1,5 @@
 # Calculadora
-Cuando no tengas tu celu a mano, ni te ande la de la computadora, esta calculadora web salva tus problemas!
+> Una calculadora simple creada con HTML y CSS, que permite realizar operaciones básicas como sumar, restar, multiplicar y dividir.
 
 ## Uso de:
 
